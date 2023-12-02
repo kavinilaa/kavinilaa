@@ -1,0 +1,188 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+    box-sizing: border-box;
+}
+.page1{
+    overflow-y: scroll;
+}
+.first{
+    background-color: gray;
+    display: flex;
+
+}
+.navi {
+    width: fit-content;
+    float: right;
+    padding-left: 420px;
+
+   
+    
+}
+p{
+    display: inline;
+    padding: 20px;
+    float: left;
+    justify-content: left;
+    
+}
+.head{
+    font-weight:bolder;
+    color: red;
+    padding-right: 500px;
+    
+
+}
+p head :hover{ background-color:black ;}
+
+.Practice{
+    background-color: black;
+    height: 250px;
+    
+}
+.practice1{ padding-left: 80px;
+    text-decoration:line-through;
+    padding-top: 70px;
+    
+}
+.namebar{
+    padding:150px;
+}
+.achievements{
+    background-color: black;
+    height:250px ;
+    padding-top: 50px;
+    border-bottom: ;
+    height: 500px;
+    
+}
+#sumera{
+    margin-right: 450px;
+    margin-left: 450px;
+    border-bottom: 5px solid white;
+    padding-bottom: 30px;
+}
+#raghavi
+{display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+   
+
+}
+.cricket{
+    width:250px;
+    height: 250px;
+    border-radius: 10px;
+    background-color:white;
+    text-align:center;
+    border:2px solid black;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px rgb(46, 44, 44);
+    
+
+    
+    
+
+}
+.School-first{
+    width:250px;
+    height: 250px;
+    border-radius: 10px;
+    background-color:white;
+    text-align: center;
+    border:2px solid black;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px rgb(46, 44, 44);
+    
+}
+.youtuber{
+    width:250px;
+    height: 250px;
+    border-radius: 10px;
+    background-color:white;
+    text-align: center;
+    border:2px solid black;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    box-shadow: 2px 2px 2px 2px rgb(46, 44, 44);
+    
+}
+.ic_home_container{
+    width:60px;
+    height: 60px;
+    
+    background-color:orange;
+    border-radius: 50%;
+   
+    
+    
+    
+}
+.ic_home{
+    scale: 0.6;
+    
+    
+}
+.page2{
+    border-top: 50px solid white;
+    overflow-y: scroll;
+}
+progress{
+    width: 350px;
+    height:10px;
+    border: 0px solid white;
+}
+progress::-webkit-progress-bar{
+    background-color: gray;
+}
+progress::-webkit-progress-value{
+    background-color:rgb(248, 112, 8);
+}
+.progress{
+    display: flex;
+    justify-content: space-between;
+    row-gap: 200px;
+    padding-top: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.contact{
+    background-color: black;
+    width:100%;
+    height:300px;
+    margin-top:50px ;
+}
+form{
+    padding-top: 30px;
+    
+}
+input{
+    width: 300px;
+}
+.one{
+    margin: 20px;
+
+}
+.two{
+    margin: 20px;
+
+}
+.three{
+    margin: 20px;
+
+}
